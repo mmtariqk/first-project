@@ -15,13 +15,21 @@ As a student, I want to search and learn different words, so that I can  be bett
 4. When I click on the "Word Quiz" tab, then I will be redirected to another page to take a fun word quiz.
 5. When I click on translation drop down menu, then I should be able to select the language and the whole page will be translated in the selected language.
 
-## Live URL
+## Live Team Deployed URL
 
 Please find the website deployed here - [(https://vsjanarthani.github.io/word-search/)]
 
-## Project Repository
+## Project Team Repository URL
 
 Please find the project repository here - [(https://github.com/vsjanarthani/word-search)]
+
+**My Own URLs**
+
+## My Portfolio Updated Deployed URL: https://mmtariqk.github.io/m-portfolio/
+
+##  My Interactive front end project Deployed URL : https://mmtariqk.github.io/first-project/
+
+##  My GitGub Repo URL:  https://github.com/mmtariqk/first-project
 
 ## Built With
 
