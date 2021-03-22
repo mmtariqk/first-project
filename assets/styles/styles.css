@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #501050;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 100%;
+}
+
+.subheader {
+  height: 55px;
+  background-color: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.goog-logo-link{
+  display: none;
+}
+
+.fav-words {
+  display: flex;
+}
+
+.title {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  margin-top: 25px;
+}
+
+.my-blue {
+  background-color: #501050;
+}
+
+.bg-light {
+  background-color: #f5f3f3 !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #501050 !important;
+}
+
+.full-opacity {
+  opacity: 100%;
+}
+.clear-footer {
+  height: 200px;
+  background-color: transparent;
+}
+.translucid {
+  background: transparent;
+  border: none;
+}
+
+.highlighted span {
+  font-weight: bolder;
+}
+
+.fav {
+  margin: 6px;
+}
+
+#fav-search button {
+  background-color: #ccc !important;
+  color: black;
+}
+
+.main,
+.display,
+.display-score,
+.display-storage {
+  display: none;
+}
+
+.card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.question h4 {
+  margin: 35px auto 35px auto;
+}
+
+.active {
+  display: contents;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.goldie {
+  color: #f5c418;
+}
+
+.gold {
+  color: rgb(248, 222, 74);
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  color: white !important;
+}
+
+footer {
+  background-color: #501050;
+  font-weight: lighter;
+  font-size: smaller;
+  position: sticky;
+}
+
+@media screen and (min-width: 575px) {
+  .card {
+    width: 75%;
+    margin: 40px auto 40px auto;
+  }
+
+  .question h4 {
+    margin: 40px auto 40px auto;
+  }
+
+  .subheader {
+    margin: 45px auto 45px auto;
+    width: 50%;
+    justify-self: center;
+  }
+
+  .main-divided {
+    display: inline;
+  }
+
+  .word-fetched {
+    float: right;
+  }
+
+  .tab-pane {
+    width: 60%;
+    margin: 20px auto 20px auto;
+    justify-self: center;
+    justify-content: center;
+  }
+
+  .main-text-reference {
+    justify-self: center;
+  }
+  .active {
+    display: flex;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .hide {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .card {
+    width: 65%;
+    margin: 80px auto 80px auto;
+  }
+
+  .card-title {
+    margin-bottom: 35px;
+  }
+  .card-body h3 {
+    font-size: 48px;
+  }
+
+  .card-body p {
+    font-size: 20px;
+    margin-bottom: 35px;
+    text-align: center;
+  }
+
+  .question h4 {
+    margin: 55px auto 55px auto;
+  }
+
+  .subheader {
+    margin: 65px auto 65px auto;
+    width: 30%;
+    justify-self: center;
+    border-radius: 15px;
+  }
+
+  .tab-pane {
+    width: 40%;
+    margin: 35px auto 35px auto;
+    justify-self: center;
+    justify-content: center;
+  }
+  .main-text-reference {
+    justify-self: center;
+  }
+  .active {
+    display: flex;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .hide {
+    display: none;
+  }
+}
