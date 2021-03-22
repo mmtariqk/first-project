@@ -25,7 +25,9 @@ Please find the project repository here - [(https://github.com/vsjanarthani/word
 
 **My Own URLs**
 
-## My Portfolio Updated Deployed URL: https://mmtariqk.github.io/m-portfolio/
+## My Updated Portfolio Deployed URL: https://mmtariqk.github.io/m-portfolio/
+
+## My Updated portfolio Repo URL Here : https://github.com/mmtariqk/m-portfolio
 
 ##  My Interactive front end project Deployed URL : https://mmtariqk.github.io/first-project/
 
